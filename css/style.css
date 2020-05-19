@@ -1,0 +1,405 @@
+.tejas{
+	margin-left: 60px;
+	margin-right: 60px;
+	font-family: 'Poppins';
+}
+
+nav .container{
+	padding-left: 175px;
+}
+
+
+nav a.bt{
+	color: #003353;
+}
+
+.text-infor {
+    color: #003353 !important;
+}
+
+a:hover {
+    color: #dc9d06 !important;
+}
+
+nav a.dt{
+ display: none;
+
+}
+
+
+.about{
+	background-color: #dc9d06;
+	color: #fff;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 115px;
+  
+}
+
+.care{
+	background-color: #dc9d06;
+	color: #fff;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 0px;
+  
+}
+
+.north{
+	background-color: #dc9d06;
+	color: #fff;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 0px;
+  
+}
+
+
+
+
+.row p{
+	font-size: 18px;
+	margin-left: 60px;
+	margin-top: 30px;
+	
+}
+.neha{
+}
+
+/*responsive images start*/
+
+.flexyimg{
+	margin-left: 55px;
+}
+
+.cultureimg{
+margin-left: 55px;
+}
+
+.ourmethodologyimg{
+	margin-left: 55px;
+}
+
+.candidatecareimg{
+	margin-left: 55px;
+}
+
+.filter{
+	
+	 margin-left: 265px;
+	 height: 150px; 
+	 width: 150px;
+}
+
+
+.awardsimg{
+	margin-left: 5px;
+}
+/*responsive images ends*/
+
+.found{
+	font-weight: 700;
+}
+/*mission-vision images start*/
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+  margin-bottom: 8px;
+}
+
+.center p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+  margin-bottom: 8px;
+}
+/*mission-vision images ends*/
+
+
+
+
+
+/*culture start*/
+.culture{
+	background-color: #003353;
+}
+
+.timely{
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.lgm{
+	padding-left: 20px; 
+	padding-top: 15px; 
+	font-size: 18px;
+}
+/*culture start*/
+.kk{
+	list-style: none;
+	font-size: 18px;
+}
+
+.our{
+	background-color: #fff;
+	color: #003353;
+
+}
+
+.me p{
+	font-size: 18px;
+}
+
+.ourmethodology{
+	margin-bottom: 8px;
+	margin-top: 27px;
+}
+
+
+
+
+.card-body{
+	box-sizing: 20px;
+}
+
+.card{
+	margin-top: 40px;
+	border: 10px solid rgba(0,0,0,.125);
+}
+
+/*...2our leadership start...*/
+
+.footer{
+	background-color: #dc9d06;
+	text-align: center;
+
+}
+
+.card-body p{
+	padding-left: 110px;
+	padding-right: 110px; 
+	font-size: 18px;
+	 margin-top: 20px;
+	height: 82px;
+	overflow: hidden;
+}
+
+.card-body a{
+	display: inline-block;
+    color: #fff;
+    background-color: #003353;
+    text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+.card-body a:hover{
+	box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+	color: #fff;
+	text-decoration: none;
+}
+
+.card-body.showContent p{
+	height: auto;
+}
+
+.card-body.showContent a.readmore-btn{
+	background-color: #dc9d06;
+}
+
+.zee{
+	padding-left: 62px;
+}
+
+.mouse{
+	padding-left: 500px;
+
+}
+
+.iit{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+
+/*///////////////////////////////responsive//////////////*/
+
+
+
+@media(min-width: 992px){
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+	
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+	
+}
+
+@media(min-width: 480px) and (max-width: 574px){
+
+	
+}
+
+@media(max-width: 479px){
+
+
+nav a.bt{
+	display: none;
+
+	
+}
+
+nav a.dt{
+ display: block;
+ text-align: center;
+}
+
+
+
+/*about section*/
+.about{
+	background-color: #dc9d06;
+	color: #fff;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 118px; 
+	text-align: center;
+}
+.row p{
+	font-size: 18px;
+	margin-left: 10px;
+	margin-top: 0px;	
+	font-size: 16px;
+	
+	
+}
+
+.tejas{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.neha p{
+ text-align: left;	
+}
+
+.flexyimg{
+	margin-left: 0px;
+	height: 100%;
+	width: 100%;
+}
+/*about section ends*/
+
+/*culture section start*/
+
+.timely{
+	text-align: left;
+	margin-bottom: 0px;
+}
+
+
+.kk{
+	list-style: none;
+	font-size: 18px;
+	text-align: left;
+	justify-content: center;
+}
+.lgm{
+	padding-left: 0px; 
+	padding-top: 15px; 
+	font-size: 18px;
+	text-align: left;
+
+}
+
+.cultureimg{
+	margin-left: 0px;
+	height: 100%;
+	width: 100%;
+
+}
+
+
+
+/*culture section ends*/
+
+
+/*our methodology section start*/
+
+.ourmethodologyimg{
+	margin-left: 0px;
+	height: 100%;
+	width: 100%;
+}
+
+
+.ourmethodology{
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+/*our methodology section ends*/
+
+/*candidate care section start*/
+
+.candidatecareimg{
+	margin-left: 0px;
+	height: 100%;
+	width: 100%;
+}
+
+/*candidate care section ends*/
+
+/*card-body section start*/
+
+
+.card-body p{
+	padding-left: 6px;
+	padding-right: 6px; 
+	font-size: 16px;
+	 margin-top: 20px;
+	height: 149px;
+	overflow: hidden;
+}
+
+.filter{
+	
+	 margin-left: 135px;
+	 height: 150px; 
+	 width: 150px;
+}
+
+/*card-body section ends*/
+
+/*awards section start*/
+
+.awardsimg{
+	margin-left: 0px;
+    height: 100%;
+	width: 100%;
+}
+
+
+.zee{
+	padding-left: 11px;
+	text-align: left;
+}
+/*awards section ends*/
+
+/*flexymanagers section start*/
+
+.mouse{
+	padding-left: 80px;
+
+}
+/*flexymanagers section ends*/
+
+
+
+}
